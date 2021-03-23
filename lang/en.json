@@ -1,0 +1,8 @@
+{
+  "SETTINGS.lsPurchaseChatMessageTitle": "Display chat message for purchases?",
+
+  "ERROR.lsItemInvalidQuantity": "Item quantity invalid.",
+
+  "ls.convertToLoot": "Convert to loot",
+  "ls.convertToLootUnlinked": "Convert defeated (tokens) to loot"
+}

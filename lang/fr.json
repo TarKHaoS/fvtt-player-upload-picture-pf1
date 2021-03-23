@@ -1,0 +1,8 @@
+{
+  "SETTINGS.lsPurchaseChatMessageTitle": "Afficher les messages de transaction?",
+
+  "ERROR.lsItemInvalidQuantity": "Quantité invalide.",
+    
+  "ls.convertToLoot": "Convertir en butin",
+  "ls.convertToLootUnlinked": "Convertir hors-combat (jetons) en butin"
+}
